@@ -1,0 +1,85 @@
+ALUNO:
+{
+    "matricula":"1010",
+    "nome":"joao",
+    "nomeSocial":"lek",
+    "idade":"20",
+    "estadoCivil":"solteiro",
+    "dataNascimento":"05/01/2000",
+    "rg":"334432344",
+    "cpf":"23442342342",
+    "telefoneCelular":"12312312132",
+    "numeroWhatsapp":"31231223123",
+    "telefoneRecado":"3413213132",
+    "nomePessoaTelefoneRecado":"maria",
+    "endereco":"rua brascubas",
+    "email":"joao@email.com.br",
+    "nomeResponsavel":"maria",
+    "escolaridade":"martenal",
+    "escolaFundamental":"objetivo",
+    "escolaMedio":"objetivo",
+    "anoMedio":"2",
+    "anoFormacaoMedio":"2030",
+    "camiseta":"G",
+    "sapato":"40",
+    "servicoAtendimento":"seiLa",
+    "unidade":"X",
+    "tecnico":"abel ferreira",
+    "telefoneTecnico":"12321313",
+    "alergia":false,
+    "alergiaRemedio":false,
+    "alergiaAlimento":false,
+    "alergiaOutros":false,
+    "especificacaoAlergia":false,
+    "hipertensao":false,
+    "hipotensao":false,
+    "epilepsia":false,
+    "diabetes":false,
+    "problemaRenal":false,
+    "problemaOcular":false,
+    "problemaRespiratorio":false,
+    "fumante":false,
+    "medicamentosUsoContinuo":"dipirona",
+    "observasao":"menino bom"
+}
+
+FERIADO:
+{
+   "data":"15/09/2000"
+}
+
+
+OCORRENCIA DIARIO:
+{
+   "matricula":"1010",
+   "ocorrencia":"quebrou o pescoço ao bater a cabeça no vaso",
+   "dataOcorrencia":"24/01/2010"
+}
+
+TURMA:
+
+{
+	"numero":"1892",
+	"inicioTurma":"13/07/2024"
+}
+
+CADASTRAR ALUNO NA TURMA:
+{
+	"numeroTurma":"1892",
+	"matricula":"1010"
+}
+
+ADVERTENCIA:
+{
+	"matricula":"",
+	"descricao":"",
+	"dataDescricao":""
+}
+
+FREQUENCIA:
+{
+	"status":"INTEGRAL",
+	"numeroTurma":"1892",
+	"matricula":"1010",
+	"dataAula":"10/10/2020"
+}
